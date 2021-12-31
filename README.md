@@ -15,9 +15,6 @@
   Allows me to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate when I am traveling.
   ## Installation: 
   npm i and install application from web
-  ## Usage
-  * ![terminal in VS](../assets/images/)
-  * ![terminal in VS](../assets/videos/)
   ## Credits 
   Marvin Ren 
   ## Tests
